@@ -2,7 +2,7 @@
 
 ## Description
 > The Network Operations Center (NOC) of your local institution picked up a suspicious file, they're getting conflicting information on what type of file it is. They've brought you in as an external expert to examine the file. Can you extract all the information from this strange file?
-> Download the suspicious file [here]().
+> Download the suspicious file [here](https://github.com/NgocPhuc4/CTF/blob/main/picoCTF/Forensics/Secret%20of%20the%20Polyglot/flag2of2-final.pdf).
 
 ## Solution
 Ta có một file pdf, tuy nhiên khi dùng `file` để kiểm tra loại file thật sự thì thấy đây lại là một file png
