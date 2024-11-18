@@ -2,7 +2,7 @@
 
 ## Description
 > How about some hide and seek?
-> Download this file [here]().
+> Download this file [here](https://github.com/NgocPhuc4/CTF/blob/main/picoCTF/Forensics/CanYouSee/unknown.zip).
 
 ## Solution
 `strings` để xem các chuỗi trong file thì ta thấy có một đoạn được mã hóa bằng `base64`
