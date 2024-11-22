@@ -2,7 +2,7 @@
 
 ## Description
 > How about some hide and seek heh?
-> Download this [file]() and find the flag.
+> Download this [file](https://github.com/NgocPhuc4/CTF/blob/main/picoCTF/Forensics/PcapPoisoning/trace.pcap) and find the flag.
 
 ## Solution
 
